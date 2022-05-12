@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingEnd="16dp"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/stateTv"
+        android:textColor="@color/gray"
+        android:layout_weight="2"
+        android:padding="8dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="10sp"
+        android:id="@+id/CNFMTv"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="10sp"
+        android:id="@+id/ACTVTv"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="10sp"
+        android:id="@+id/RCVDTv"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="10sp"
+        android:id="@+id/DTHTv"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
